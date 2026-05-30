@@ -1,4 +1,4 @@
-# Exploratory_Data_Analytics_Project --Iyowu-Esther
+# Exploratory_Data_Analysis_Project --Iyowu-Esther
 Exploratory data analysis (EDA) of a sales dataset using Excel to uncover trends, patterns, and business insights.
 
 ## Project Overview
