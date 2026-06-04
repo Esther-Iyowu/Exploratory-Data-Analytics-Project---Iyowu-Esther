@@ -41,11 +41,12 @@ The EDA Excel file is organized into the following sheets:
   ## Key Insights & Results
   
   - **Top Products:** Chair ( Highest sales volume contributor)
-  - **Best Payment Method:** Credit Card (Most preferred)
+  - **Best Payment Method:** Online (Most preferred)
   - **Top Referral / Marketing Channel:** Instagram
   - **Peak Sales Month:** June 2024 ( Highest recorded sales period)
   - **Lowest Sales Month:** April 2023 ( Lowest revenue performance period)
   - **Total Orders:** 1,200
+  - **Outliers Found:** 8
     
   - **Order Status Insight:** A notable number of Cancelled orders was observed, indicating a potential revenue leakage area that may require further investigation.
  
